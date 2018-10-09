@@ -1,0 +1,14 @@
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\bin\Debug\netcoreapp2.1\lavax711.deps.json
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\bin\Debug\netcoreapp2.1\lavax711.runtimeconfig.json
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\bin\Debug\netcoreapp2.1\lavax711.runtimeconfig.dev.json
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\bin\Debug\netcoreapp2.1\lavax711.dll
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\bin\Debug\netcoreapp2.1\lavax711.pdb
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.csprojAssemblyReference.cache
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.csproj.CoreCompileInputs.cache
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.RazorAssemblyInfo.cache
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.RazorAssemblyInfo.cs
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.AssemblyInfoInputs.cache
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.AssemblyInfo.cs
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.RazorTargetAssemblyInfo.cache
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.dll
+C:\Users\LAvAX\Documents\Visual Studio 2017\Projects\lavax711\be\obj\Debug\netcoreapp2.1\lavax711.pdb
